@@ -50,7 +50,7 @@ src/main/java/com/java/projetoUsuario
 
 ## Clone este repositório:
 
-git clone https://github.com/seu-usuario/crudify-springboot.git
+git clone [https://github.com/seu-usuario/crudify-springboot.git](https://github.com/Dyogo199/Crudify-Gerenciador-de-Usu-rios-em-Spring-Boot.git)
 
 
 Entre na pasta do projeto:
