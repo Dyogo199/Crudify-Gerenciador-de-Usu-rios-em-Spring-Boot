@@ -39,7 +39,7 @@ Este projeto foi inspirado no estudo de **arquitetura MVC**, **banco de dados H2
 
 ## 📂 Estrutura do Projeto
 
-```bash
+
 src/main/java/com/java/projetoUsuario
  ┣ 📂 controller    # Endpoints da API
  ┣ 📂 service       # Regras de negócio
@@ -81,8 +81,8 @@ DELETE /user/{id} → Excluir usuário
 
 🖼️ Demonstração
 
-Adicione prints do Postman ou imagens mostrando o CRUD em funcionamento.
-Exemplo de imagem (substitua pelo seu print):
+<img width="1338" height="686" alt="image" src="https://github.com/user-attachments/assets/2b50f72f-0264-4219-95d7-02535e25373c" />
+
 
 📚 Aprendizados
 
